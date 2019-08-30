@@ -4,7 +4,8 @@
 ### GUI for gprMax
 * Developed a shell script which allows flexible graphical user interface (GUI) for generating A-scan/B-scan using gprMax.
    
-### Steps to run GUI(Refer demo video https://drive.google.com/file/d/1eG3KxvZza9633Qveo4DBzrX4T2i3W2Yd/view?usp=sharing)
+### Steps to run GUI
+(Refer demo video https://drive.google.com/file/d/1eG3KxvZza9633Qveo4DBzrX4T2i3W2Yd/view?usp=sharing)
    * Click GUI_gprMax.sh file
    * Start filling GUI (For new users,refer Example file "sample_input.txt". To know about more visit http://www.gprmax.com/).
    * Fill file name(input).
@@ -29,6 +30,7 @@
 ## How to use GPR1_0?
 ### To view B-scan
     Go to File-> Load ->Load csv file	
+    
 ###To view A-scan
     Click anywhere in B-scan, corresponding A-scan will display on its right side. 
 
