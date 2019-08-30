@@ -31,7 +31,7 @@
 ### To view B-scan
     Go to File-> Load ->Load csv file	
     
-###To view A-scan
+### To view A-scan
     Click anywhere in B-scan, corresponding A-scan will display on its right side. 
 
 ### To apply Image Processing Algorithms
